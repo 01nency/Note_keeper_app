@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067106527938",
+    "project_id": "note-keeper-406eb",
+    "storage_bucket": "note-keeper-406eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067106527938:android:a0c828b0ff823dd126295b",
+        "android_client_info": {
+          "package_name": "com.example.note_keeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067106527938-h6s2nbeqoagn0f8ue9pckop3ds2gedsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc3N-fOB0C2EdWfM7jFrT2K1YuFee9SRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067106527938-h6s2nbeqoagn0f8ue9pckop3ds2gedsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
